@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7321dfe5-97df-492a-b5ae-f2a020f5b758" name="Default" comment="" />
+    <list default="true" id="7321dfe5-97df-492a-b5ae-f2a020f5b758" name="Default" comment="Creacion servidor" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -50,8 +50,8 @@
       <file leaf-file-name="usuario.controller.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project/src/usuario.controller.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="626">
+              <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
               <folding>
                 <element signature="e#0#57#0" expanded="true" />
               </folding>
@@ -142,7 +142,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/project/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="467" />
     <option name="y" value="159" />
     <option name="width" value="1257" />
@@ -224,7 +224,7 @@
       <option name="presentableId" value="Default" />
       <updated>1525282602655</updated>
       <workItem from="1525282603988" duration="1172000" />
-      <workItem from="1525702410649" duration="5489000" />
+      <workItem from="1525702410649" duration="5664000" />
     </task>
     <task id="LOCAL-00001" summary="Creacion servidor">
       <created>1525283663137</created>
@@ -237,21 +237,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6661000" />
+    <option name="totallyTimeSpent" value="6836000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="467" y="159" width="1257" height="1146" extended-state="1" />
-    <editor active="true" />
+    <frame x="467" y="159" width="1257" height="1146" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49928877" visible="true" weight="0.3341424" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49928877" visible="true" weight="0.3341424" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32983795" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32983795" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" sideWeight="0.50071126" side_tool="true" visible="true" weight="0.3341424" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -371,8 +370,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project/src/usuario.controller.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="626">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
           <folding>
             <element signature="e#0#57#0" expanded="true" />
           </folding>
